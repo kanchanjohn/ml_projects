@@ -1,0 +1,1 @@
+Aim is to analyse customer's behavior history and segment them so that effective marketing campaigns can be done to targeted customers.
