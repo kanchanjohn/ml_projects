@@ -1,0 +1,1 @@
+Goal is to develop a model that has the capacity of predicting the value of houses in Boston.

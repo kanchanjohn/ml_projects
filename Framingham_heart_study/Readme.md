@@ -1,0 +1,1 @@
+The aim is to build a model which can predict if the a person will develop Chronic heart disease in 10 years or not , with the given parameters.

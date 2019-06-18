@@ -1,0 +1,1 @@
+The aim is to detect if the giving data has Sarcasm or not.
